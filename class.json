@@ -1,1 +1,96 @@
-
+onetravel.com, .side-bar__block payment_timer
+onetravel.com, .act-fast__msg contract__breakup__price
+cheapoair.com, .act-fast__msg contract__breakup__price
+cheapoair.com, .side-bar__block payment_timer
+viagogo.com, .tile red-note mbm v-pad-12 flex flex-middle
+viagogo.com, .ajs-message ajs-ed-urgency ajs-visible
+viagogo.com, .radius-st tile error txtc js-venue-capacity
+viagogo.com, .mbxs cnRed2 js-urgency-msgs-above-grid-tile
+viagogo.com, .bnOrg4 radiuss pxxs txtc cWht mbxxs
+viagogo.com, .ajs-message ajs-edq-justbought ajs-visible
+viagogo.com, .p0 js-timer-content
+viagogo.com, .ps
+viagogo.com, .mts animate bounce-in-from-right
+viagogo.com, .gRow js-loading-urgent-msg mtxxl
+viagogo.com, .red-badge-border radiuss pxs
+hotels.com, #urgency
+hotels.com, #cheapest-room-message-container
+hotels.com, #price-increase-container
+agoda.com, .price-box__badges__ribbon
+agoda.com, .UrgencyMessage__Text
+agoda.com, .soldOut__content soldOut__content--animate
+agoda.com , .l-row l-row--no-gutter availability-message availability-message--counter animating
+agoda.com, .text-Badge-list text-Badge-list--Leftside
+agoda.com, .mapsPropertyCard-discountBadge thinBadge
+agoda.com, .soldout-subinfo map-subinfo
+agoda.com, .SimilarPropertiesBanner
+agoda.com, .BestSellerBadge
+agoda.com, .ChildRoomsList-urgency
+agoda.com, .LowestPriceYouSeen-Container
+rentalcars.com, .inline-message positive below-average-price
+rentalcars.com, .countdown
+booking.com, .bui-alert bui-alert--success bui-alert--large bui-u-bleed@small lock-price-banner lock-price-banner--no-button
+booking.com, .sr_room_reward e2e-cancel-later
+booking.com, .sr-last-booked
+booking.com, .hprt-price-deal-badge
+booking.com, .fe_banner fe_banner__accessible fe_banner__w-icon fe_banner__red fe_banner__bp fe_banner__inherit_font_size
+booking.com, .only_x_left urgency_message_red
+booking.com, .notice-item
+booking.com, .hasJS .hp-rt-just-booked.fadeIn
+booking.com, .hasJS .hp-rt-recently-booked.fadeIn 
+booking.com, .c-sr_alternative_dates
+booking.com, .important_text
+booking.com, .lastbooking
+booking.com, .map-card__urgency-scarcity
+booking.com, .hp-rt-just-booked js--hp-rt-just-booked anim fadeIn
+booking.com, .bp_sidebar_content_block__li_content bp_sidebar_content_block__li_content--alert
+booking.com, .fe_banner__bp
+booking.com, .in-high-demand-not-scarce in-high-demand-not-scarce--bigger
+booking.com, .sr_no_desc_users
+booking.com, .js_sr_persuation_msg
+booking.com, .rollover-s1 lastbooking
+booking.com, .sold_out_property_wrapper
+booking.com, .facility-badge__wrapper
+booking.com, .bui-alert
+booking.com, .rollover-s1 lastbooking
+booking.com, .sold_out_property_wrapper sr--soldout-content
+booking.com, .fe_banner fe_banner__accessible fe_banner__w-icon fe_banner__red fe_banner__bp fe_banner__inherit_font_size  
+booking.com, .bui-alert--success
+booking.com, .bui-alert--large 
+booking.com, .bui-u-bleed@small 
+booking.com, .bui-banner
+booking.com, .bui-alert bui-u-bleed@small bui-alert--error
+booking.com, .lock-price-banner 
+booking.com, .hp-rt-just-booked js--hp-rt-just-booked anim fadeIn
+booking.com, .lock-price-banner--no-button
+booking.com, .msg_low_avail_block
+booking.com, .hp-rt-just-booked
+booking.com, .js--hp-rt-just-booked
+booking.com, .urgency_message_red
+booking.com, .hp-rt-just-booked js--hp-rt-just-booked anim fadeIn
+booking.com, .urgency_message_x_people
+booking.com, .hprt-reservation-message2
+booking.com, .only_x_left sr_rooms_left_wrap
+booking.com, .gallery-info__um
+booking.com, .fe_banner fe_banner__accessible fe_banner__scale_small fe_banner__w-icon fe_banner__red
+booking.com, .thisRoomAvailabilityNew
+booking.com, .hp-rt-recently-booked js--hp-rt-recently-booked anim fadeIn
+booking.com, .bp_pricedetails_similar_soldout__message
+booking.com, .bp_cta_urgency
+booking.com, .urgency_message_red
+expedia.com, .flex-card flex-listing
+expedia.com, .urgencyContainer secondary
+expedia.com, .just-booked-red
+expedia.com, .rooms-left
+agoda.com, .availability-message animating
+agoda.com, .dealOfTheDayContainer
+agoda.com, .dod-alert
+agoda.com, .urgency-line
+agoda.com, .price-box__badges
+agoda.com, .sold-out-message info
+agoda.com, .sold-out-message
+agoda.com, .price-box__badges__ribbon
+agoda.com, .OWL-HOME.theme-agoda .price-box__badges__ribbon, .OWL-SEARCH.theme-agoda .price-box__badges__ribbon
+agoda.com, .urgency-messaging-container
+booking.kayak.com, .seatsPromo
+booking.kayak.com, .predictionContainer
