@@ -104,3 +104,4 @@ agoda.com, .urgency-messaging-container
 booking.kayak.com, .seatsPromo
 booking.kayak.com, .predictionContainer
 hotels.com, .uitk-layout-position-right-three
+trivago.com .Eesg2Q
