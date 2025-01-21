@@ -16,6 +16,10 @@ viagogo.com, .red-badge-border radiuss pxs
 hotels.com, #urgency
 hotels.com, #cheapest-room-message-container
 hotels.com, #price-increase-container
+hotels.com, .uitk-badge-deal-generic
+hotels.com, .uitk-badge-large
+hotels.com, .uitk-badge-has-text
+hotels.com, .uitk-badge
 agoda.com, .price-box__badges__ribbon
 agoda.com, .UrgencyMessage__Text
 agoda.com, .soldOut__content soldOut__content--animate
