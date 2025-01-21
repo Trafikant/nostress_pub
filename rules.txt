@@ -20,6 +20,7 @@ hotels.com, .uitk-badge-deal-generic
 hotels.com, .uitk-badge-large
 hotels.com, .uitk-badge-has-text
 hotels.com, .uitk-badge
+hotels.com, .uitk-badge-text
 hotels.com, .uitk-badge uitk-badge-large uitk-badge-deal-generic uitk-badge-has-text uitk-layout-position uitk-layout-position-right-three uitk-layout-position-bottom-minus-three uitk-layout-position-zindex-layer2 uitk-layout-position-absolute
 agoda.com, .price-box__badges__ribbon
 agoda.com, .UrgencyMessage__Text
