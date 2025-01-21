@@ -84,6 +84,7 @@ expedia.com, .urgencyContainer secondary
 expedia.com, .just-booked-red
 expedia.com, .rooms-left
 expedia.com, .uitk-text-negative-theme
+expedia.com, .uitk-text uitk-type-end uitk-type-100 uitk-text-negative-theme
 agoda.com, .availability-message animating
 agoda.com, .dealOfTheDayContainer
 agoda.com, .dod-alert
