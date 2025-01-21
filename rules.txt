@@ -95,3 +95,4 @@ agoda.com, .OWL-HOME.theme-agoda .price-box__badges__ribbon, .OWL-SEARCH.theme-a
 agoda.com, .urgency-messaging-container
 booking.kayak.com, .seatsPromo
 booking.kayak.com, .predictionContainer
+hotels.com, .uitk-layout-position-right-three
