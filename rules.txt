@@ -83,6 +83,7 @@ expedia.com, .flex-card flex-listing
 expedia.com, .urgencyContainer secondary
 expedia.com, .just-booked-red
 expedia.com, .rooms-left
+expedia.com, .uitk-text-negative-theme
 agoda.com, .availability-message animating
 agoda.com, .dealOfTheDayContainer
 agoda.com, .dod-alert
