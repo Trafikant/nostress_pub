@@ -84,7 +84,8 @@ booking.com, .hp-rt-recently-booked js--hp-rt-recently-booked anim fadeIn
 booking.com, .bp_pricedetails_similar_soldout__message
 booking.com, .bp_cta_urgency
 booking.com, .urgency_message_red
-booking.com, .d17181842f
+booking.com, .d17181842f,
+booking.com, .abf093bdfe faef52022a
 expedia.com, .flex-card flex-listing
 expedia.com, .urgencyContainer secondary
 expedia.com, .just-booked-red
