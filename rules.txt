@@ -47,6 +47,7 @@ booking.com, .hasJS .hp-rt-recently-booked.fadeIn
 booking.com, .c-sr_alternative_dates
 booking.com, .important_text
 booking.com, .lastbooking
+booking.com, .bui-list__item bui-text--color-destructive-dark 
 booking.com, .map-card__urgency-scarcity
 booking.com, .hp-rt-just-booked js--hp-rt-just-booked anim fadeIn
 booking.com, .bp_sidebar_content_block__li_content bp_sidebar_content_block__li_content--alert
